@@ -5,3 +5,5 @@
 # [Лабораторная работа №3](lab3/README.md)
 
 # [Лабораторная работа по SSH](labssh/README.md)
+
+# [Лабораторная работа по VNS](labvns/README.md)
