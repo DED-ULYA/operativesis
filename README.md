@@ -9,3 +9,5 @@
 # [Лабораторная работа по VNS](labvns/README.md)
 
 # [Лабораторная работа по написанию скрипта в BASH](labscript/README.md)
+
+# [Лабораторная работа по процесcам в Linux](labProc/README.md)
